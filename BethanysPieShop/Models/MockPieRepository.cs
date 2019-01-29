@@ -30,12 +30,12 @@ namespace BethanysPieShop.Models
 
         public IEnumerable<Pie> GetAllPies()
         {
-            throw new NotImplementedException();
+            return _pies;
         }
 
         public Pie GetPieById(int pieId)
         {
-            throw new NotImplementedException();
+            return _pies.FirstOrDefault(p => p.Id == pieId);
         }
     }
 }
