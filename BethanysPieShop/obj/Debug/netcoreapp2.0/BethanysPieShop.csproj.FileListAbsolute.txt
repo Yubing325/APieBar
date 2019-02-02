@@ -20,3 +20,14 @@ E:\Codes\Github\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.
 E:\Codes\Github\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
 E:\Codes\Github\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
 E:\Codes\Github\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
+D:\Code\DotNetCore\APieBar\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+D:\Code\DotNetCore\APieBar\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+D:\Code\DotNetCore\APieBar\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+D:\Code\DotNetCore\APieBar\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+D:\Code\DotNetCore\APieBar\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+D:\Code\DotNetCore\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojAssemblyReference.cache
+D:\Code\DotNetCore\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+D:\Code\DotNetCore\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+D:\Code\DotNetCore\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+D:\Code\DotNetCore\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+D:\Code\DotNetCore\APieBar\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
